@@ -1,0 +1,30 @@
+whats the difference between compiler and an interpreter?
+an interpreter reads the source code and interprets  right away.A compiler needs the entire program file before running ,translating from high level language to machine level language and then putting in a seprate file to execute later.
+why should we learn to write programs?
+Because it is a sequence of python statements that have been crafted to do something.
+
+
+function-
+A function is defined using a def keyword which can be given a unique name that takes various inputs and computing steps to obtain the result. This result should be returned in the function using the return keyword. This function can be called in various parts of the program to avoid the repetition of tasks or lines of code. In python, a function can exist individually that can be called repeatedly by specifying the required parameters.
+
+STRING-
+string.capitalize- returns a copy of string with first letter captialize,
+
+string.lower(word)- return copy of a word with all lowercase.
+
+string.join()- convert a list or tuple to string.
+
+string.upper(word)- returns the copy of word with lowercase changeed to uppercase and vice versa.
+
+string.replace(word,old,new)- returns a copy of word with all occurences of old replaced by new.
+
+
+
+LIST
+list.append(item)- add item to the end of the list
+list.insert(i,x)-insert an item x at index i
+list.remove(x)- remove the first occurence of x
+list.pop([i])- remove the item from  position i
+list.clear()-remove all the items from the list.
+list.sort()- sort the list
+list.copy()- returns a copy of list.
